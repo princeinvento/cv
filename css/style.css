@@ -1,0 +1,16 @@
+body {
+    background-color: #EAF6F6;
+}
+hr {
+    border-style: dotted none none;
+    border-color: gray;
+    border-width: 5px;
+    width: 5%;
+}
+img {
+    height: 250px;
+}
+h1, h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #66BFBF;
+}
